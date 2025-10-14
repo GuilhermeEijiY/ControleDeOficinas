@@ -40,7 +40,7 @@ Ele permitirá:
 ## 5. Tecnologias Utilizadas  
 - **Front-end:** React.js, HTML5, CSS3, JavaScript  
 - **Back-end:** Node.js com Express  
-- **Banco de Dados:** PostgreSQL (ou MySQL)  
+- **Banco de Dados:** MongoDB
 - **ORM:** Sequelize  
 - **IDE:** Visual Studio Code  
 - **Controle de Versão:** Git + GitHub  
