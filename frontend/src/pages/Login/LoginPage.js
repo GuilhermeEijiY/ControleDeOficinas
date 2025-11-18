@@ -41,8 +41,16 @@ const LoginPage = ({ onLoginSuccess }) => {
     }
   };
 
-  {
-  }
-  <LoginForm onLogin={handleLogin} />;
+  return (
+    <div className="login-page">
+      <div className="login-header">
+        <h1> Sistema de Controle de Oficinas</h1>
+        <p>Projeto de Extensão ELLP</p>
+      </div>
+      {}
+      <LoginForm onLogin={handleLogin} />
+    </div>
+  );
 };
+
 export default LoginPage;
