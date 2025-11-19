@@ -10,7 +10,6 @@ import DashboardPage from "./pages/Dashboard/DashboardPage";
 import OficinasPage from "./pages/Oficinas/OficinasPage";
 import InscricoesPage from "./pages/Inscricoes/InscricoesPage";
 import RelatoriosPage from "./pages/Relatorios/RelatoriosPage";
-import api from "./api/api";
 import "./App.css";
 
 function App() {
